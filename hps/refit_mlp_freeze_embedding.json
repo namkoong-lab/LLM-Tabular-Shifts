@@ -1,0 +1,13 @@
+{"income":{
+    "refit_lr": [1e-7, 1e-6, 1e-5, 1e-4],
+    "refit_epochs": [25, 50, 100]},
+"pubcov":{
+    "refit_lr": [1e-7, 1e-6, 1e-5, 1e-4],
+    "refit_epochs": [25, 50, 100]},
+"mobility":{
+    "refit_lr": [1e-7, 1e-6, 1e-5, 1e-4],
+    "refit_epochs": [25, 50, 100]}
+}
+
+
+

@@ -1,0 +1,7 @@
+{
+    "lr": [0.001, 0.01],
+    "hidden_size": [32, 64, 128],
+    "dropout_ratio": [0.0, 0.1],
+    "train_epochs": [500, 300, 200, 100], 
+    "num_components": [3, 5, 10]
+}
